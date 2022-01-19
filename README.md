@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jonathan 👋
 
 <!--
 **jonathan-warkentine/jonathan-warkentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+>Learn more at [warkentine.info](warkentine.info)!
+
+
+- I'm a graduate of Emory University
+- Currently enrolled in Georgia Tech's Full Stack Web Development bootcamp
+- 
