@@ -9,6 +9,9 @@ me = {
   certification: 'Georgia Tech Full Stack Web Development Bootcamp',
   work_background: 'Operations & HR Operations',
   previous_title: 'Operations Manager',
-  hobbies: guitar, [[chess](https://www.chess.com/member/strong-brew), mechanic-ing, cooking],
+  hobbies: guitar, chess,[^1] mechanic-ing, cooking],
 };
 ```
+
+
+[^1]: check me out on [chess.com!](https://www.chess.com/member/strong-brew)
