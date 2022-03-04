@@ -14,4 +14,4 @@ me = {
 ```
 
 
-`[*]` Check me out on [chess.com!](https://www.chess.com/member/strong-brew)
+`[*]` check me out on [chess.com!](https://www.chess.com/member/strong-brew)
