@@ -21,7 +21,8 @@ me = {
 
 [:envelope: Email](mailto:jonathan.warkentine@gmail.com) 
 
-&nbsp;  
+&nbsp;
+
 ---
 
 ## Expertise:
