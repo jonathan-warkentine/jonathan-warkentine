@@ -1,8 +1,4 @@
 # [warkentine.info](https://warkentine.info)
-
-&nbsp;  
-
-
 ```
 let me = new Full_Stack_Developer();
 
@@ -18,6 +14,8 @@ me = {
 
 
 `[*]` check me out on [chess.com!](https://www.chess.com/member/strong-brew)
+
+&nbsp;  
 
 ### Contact Me
 
