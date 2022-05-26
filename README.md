@@ -1,7 +1,4 @@
 ## [warkentine.info](https://warkentine.info)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-warkentine-b72bb984/)
-
-[:envelope: Email](mailto:jonathan.warkentine@gmail.com) 
 
 &nbsp;  
 
@@ -21,6 +18,12 @@ me = {
 
 
 `[*]` check me out on [chess.com!](https://www.chess.com/member/strong-brew)
+
+## Contact Me 👇
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-warkentine-b72bb984/)
+
+[:envelope: Email](mailto:jonathan.warkentine@gmail.com) 
 
 &nbsp;  
 
