@@ -1,5 +1,7 @@
 ## [warkentine.info](https://warkentine.info)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-warkentine-b72bb984/#center) | [![Email]([https://cdn.iconscout.com/icon/premium/png-256-thumb/email-2030737-1713377.png](https://img.icons8.com/material-outlined/344/email-open.png))](mailto:jonathan.warkentine@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-warkentine-b72bb984/#center) | [![Email](https://cdn.iconscout.com/icon/premium/png-256-thumb/email-2030737-1713377.png)](mailto:jonathan.warkentine@gmail.com) 
+
+&nbsp;  
 
 
 ```
