@@ -1,4 +1,4 @@
-## [warkentine.info](https://warkentine.info) || <img style="float: right;" src="whatever.jpg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+## [warkentine.info](https://warkentine.info) || <img src="whatever.jpg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
 
 
 ```
