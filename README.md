@@ -2,10 +2,8 @@
 ```
 let me = new Full_Stack_Developer({
   undergrad: 'Emory University',
-  majors: [English, Pre-Med],
-  certification: 'Georgia Tech Full Stack Web Development Bootcamp',
-  work_background: 'Operations & HR Operations',
-  previous_title: 'Operations Manager',
+  majors: ['English', 'Pre-Med'],
+  experience: ['Java', 'Node'], 
   hobbies: [guitar, chess,[*] mechanic-ing, cooking]
 });
 
